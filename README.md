@@ -1,12 +1,19 @@
-
-
-
-## Welcome to my GitHub profile!
 <h1>
-<img src="https://github.com/user-attachments/assets/24c288ad-ac07-48ed-9caf-f6331a872611" alt="Хакер" width="900">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&lines=Hi+I'm+Sarang+Gole!+👋" />
 </h1>
+
+
+
+## Welcome to my GitHub profile! 
 <div>
-<div align="center"> 
+<div align ="center">
+<img src="https://github.com/user-attachments/assets/24c288ad-ac07-48ed-9caf-f6331a872611" alt="Хакер" width="900">
+
+</div>
+
+
+
+
 
 ![gif](https://github.com/user-attachments/assets/9f28c596-ef14-427d-993a-154a4239136e)
 </div>

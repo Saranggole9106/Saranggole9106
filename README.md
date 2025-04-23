@@ -51,9 +51,11 @@
 </div>
 
 <div align="center">
-<h2>🐍 My Contribution Snake</h2>
-<img src="svg-only" alt="GitHub Snake" />
-</div>
+ <h2>🐍 My Contribution Snake</h2>
+ <img src="https://github.com/Saranggole9106/snk-" alt="GitHub Snake" />
+ <img src="svg-only" alt="GitHub Snake" />
+ </div>
+ 
 
 <div align="center">
 <h2>📊 GitHub Contribution Graph</h2>

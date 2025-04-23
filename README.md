@@ -53,16 +53,17 @@
 <div align="center">
  <h2>🐍 My Contribution Snake</h2>
  <img src="https://github.com/Saranggole9106/snk-" alt="GitHub Snake" />
- <img src="svg-only" alt="GitHub Snake" />
+
  </div>
  
 
-<div align="center">
-<h2>📊 GitHub Contribution Graph</h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saranggole9106&theme=react-light" alt="Sarang's Contribution Graph" width="700">
-</a>
-</div>
+<h2>🐍 My Contribution Snake</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saranggole9106/Saranggole9106/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saranggole9106/Saranggole9106/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Saranggole9106/Saranggole9106/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 <div align="center">
 <h2>📈 GitHub Stats Summary</h2>

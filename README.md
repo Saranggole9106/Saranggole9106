@@ -53,7 +53,6 @@
 <div align="center">
  <h2>🐍 My Contribution Snake</h2>
  <img src="https://github.com/Saranggole9106/snk-" alt="GitHub Snake" />
-
  </div>
  
 

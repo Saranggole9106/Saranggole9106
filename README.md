@@ -7,7 +7,7 @@
   <img src="https://github.com/user-attachments/assets/24c288ad-ac07-48ed-9caf-f6331a872611" alt="Хакер" width="900">
 </div>
 
-![gif](https://github.com/user-attachments/assets/9f28c596-ef14-427d-993a-154a4239136e)
+
 
 ## 🧑🏻 About me
 

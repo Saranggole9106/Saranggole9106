@@ -50,18 +50,15 @@
 </p>
 </div>
 
-<div align="center">
- <h2>🐍 My Contribution Snake</h2>
- <img src="https://github.com/Saranggole9106/snk-" alt="GitHub Snake" />
- </div>
+
  
 
 <h2>🐍 My Contribution Snake</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saranggole9106/Saranggole9106/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saranggole9106/Saranggole9106/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Saranggole9106/Saranggole9106/output/github-contribution-grid-snake.svg" />
-</picture>
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
 
 
 <div align="center">

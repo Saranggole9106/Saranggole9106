@@ -54,20 +54,10 @@
  
 
 <h2>🐍 My Contribution Snake</h2>
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-
-<div align="center">
-<h2>📈 GitHub Stats Summary</h2>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saranggole9106&theme=solarized)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saranggole9106&theme=transparent)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saranggole9106&theme=transparent)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saranggole9106&theme=solarized&utcOffset=5.3)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </div>

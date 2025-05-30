@@ -60,7 +60,7 @@
   <p>Postman</p>
 </div>
 <div style="text-align: center;">
-  <img src="https://static.wikia.nocookie.net/snap-lens-studio/images/3/35/Lens_Studio_Icon.png" width="50" height="50" alt="Lens Studio"/>
+  <img src="https://taiwebs.com/upload/icon2/snapchat-lens-studio-icon220-220.png" width="50" height="50" alt="Lens Studio"/>
   <p>Lens Studio</p>
 </div>
 </div>

@@ -13,33 +13,51 @@
 - ⚡ Enjoy problem-solving, projects, and hackathons  
 - 📂 All projects available on GitHub  
 
-## 🏆 Enhanced GitHub Trophies
+## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saranggole9106&theme=matrix&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Saranggole9106&theme=matrix&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
-## 🛠️ Tech Stack (Stack Overflow Style)
+## 🛠️ Tech Stack with Visual Icons
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
 
 ### Programming Languages
-<div>
-  <img src="https://stackoverflow-badges.vercel.app/?topic=c&level=intermediate" alt="C" />
-  <img src="https://stackoverflow-badges.vercel.app/?topic=cpp&level=intermediate" alt="C++" />
-  <img src="https://stackoverflow-badges.vercel.app/?topic=python&level=intermediate" alt="Python" />
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60" alt="C"/>
+  <span>C</span>
+</div>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/>
+  <span>C++</span>
+</div>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
+  <span>Python</span>
 </div>
 
 ### Web Development
-<div>
-  <img src="https://stackoverflow-badges.vercel.app/?topic=html&level=advanced" alt="HTML" />
-  <img src="https://stackoverflow-badges.vercel.app/?topic=git&level=intermediate" alt="Git" />
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60" alt="HTML5"/>
+  <span>HTML5</span>
+</div>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
+  <span>Git</span>
 </div>
 
 ### Tools & Design
-<div>
-  <img src="https://stackoverflow-badges.vercel.app/?topic=figma&level=intermediate" alt="Figma" />
-  <img src="https://stackoverflow-badges.vercel.app/?topic=photoshop&level=basic" alt="Photoshop" />
-  <img src="https://stackoverflow-badges.vercel.app/?topic=postman&level=intermediate" alt="Postman" />
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="60" height="60" alt="Figma"/>
+  <span>Figma</span>
+</div>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="60" height="60" alt="Photoshop"/>
+  <span>Photoshop</span>
+</div>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" alt="Postman"/>
+  <span>Postman</span>
 </div>
 </div>
 

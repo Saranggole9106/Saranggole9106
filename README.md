@@ -20,48 +20,54 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; justify-items: center; margin: 30px 0;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 30px 0;">
 
 ### Programming Languages
-<div style="text-align: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
-  <p>C</p>
-</div>
-<div style="text-align: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
-  <p>C++</p>
-</div>
-<div style="text-align: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <p>Python</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-bottom: 20px;">
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
+    <p>C</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+    <p>C++</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+    <p>Python</p>
+  </div>
 </div>
 
 ### Web Development
-<div style="text-align: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
-  <p>HTML5</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-bottom: 20px;">
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+    <p>HTML5</p>
+  </div>
 </div>
 
 ### Tools & Design
-<div style="text-align: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-  <p>Git</p>
-</div>
-<div style="text-align: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
-  <p>Figma</p>
-</div>
-<div style="text-align: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="50" height="50" alt="Photoshop"/>
-  <p>Photoshop</p>
-</div>
-<div style="text-align: center;">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
-  <p>Postman</p>
-</div>
-<div style="text-align: center;">
-  <img src="https://taiwebs.com/upload/icon2/snapchat-lens-studio-icon220-220.png" width="50" height="50" alt="Lens Studio"/>
-  <p>Lens Studio</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+    <p>Git</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
+    <p>Figma</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="50" height="50" alt="Photoshop"/>
+    <p>Photoshop</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
+    <p>Postman</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://taiwebs.com/upload/icon2/snapchat-lens-studio-icon220-220.png" width="50" height="50" alt="Lens Studio"/>
+    <p>Lens Studio</p>
+  </div>
 </div>
 </div>
 

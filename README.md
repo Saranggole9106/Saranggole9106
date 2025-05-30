@@ -58,17 +58,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Saranggole9106&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 </div>
 
-## 🔥 Recent Projects
 
-<div align="center">
-  
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [AI Image Generator](/) | Generative AI tool for creating images | Python, TensorFlow |
-| [E-Commerce Platform](/) | Full-featured online store | React, Node.js |
-| [AR Navigation App](/) | Augmented reality navigation system | Unity, C# |
-
-</div>
 
 ## 🌐 Connect With Me
 

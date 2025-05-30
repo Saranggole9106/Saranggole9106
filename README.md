@@ -18,46 +18,50 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Saranggole9106&theme=matrix&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
-## 🛠️ Tech Stack with Visual Icons
+## 🛠️ Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; justify-items: center; margin: 30px 0;">
 
 ### Programming Languages
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60" alt="C"/>
-  <span>C</span>
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
+  <p>C</p>
 </div>
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/>
-  <span>C++</span>
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+  <p>C++</p>
 </div>
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
-  <span>Python</span>
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <p>Python</p>
 </div>
 
 ### Web Development
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60" alt="HTML5"/>
-  <span>HTML5</span>
-</div>
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
-  <span>Git</span>
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+  <p>HTML5</p>
 </div>
 
 ### Tools & Design
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="60" height="60" alt="Figma"/>
-  <span>Figma</span>
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <p>Git</p>
 </div>
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="60" height="60" alt="Photoshop"/>
-  <span>Photoshop</span>
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
+  <p>Figma</p>
 </div>
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" alt="Postman"/>
-  <span>Postman</span>
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="50" height="50" alt="Photoshop"/>
+  <p>Photoshop</p>
+</div>
+<div style="text-align: center;">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
+  <p>Postman</p>
+</div>
+<div style="text-align: center;">
+  <img src="https://static.wikia.nocookie.net/snap-lens-studio/images/3/35/Lens_Studio_Icon.png" width="50" height="50" alt="Lens Studio"/>
+  <p>Lens Studio</p>
 </div>
 </div>
 

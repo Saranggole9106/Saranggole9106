@@ -14,7 +14,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Navi%20Mumbai-blue?style=for-the-badge&logo=googlemaps" alt="Location"/>
-  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue?style=for-the-badge" alt="Pronouns"/>
+  <img src="https://img.shields.io/badge/Pronouns-Him-blue?style=for-the-badge" alt="Pronouns"/>
   <a href="mailto:saranggole9106@gmail.com">
     <img src="https://img.shields.io/badge/Email-saranggole9106@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>

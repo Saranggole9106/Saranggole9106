@@ -1,5 +1,3 @@
-<!-- Start README -->
-
 <h1 align="center">
   <a href="https://github.com/Saranggole9106">
     <img src="https://readme-typing-svg.herokuapp.com?font=FiraCode&size=35&pause=1000&color=30A46C&center=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sarang+Gole!" alt="Typing SVG" />
@@ -7,10 +5,12 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/24c288ad-ac07-48ed-9caf-f6331a872611" alt="Coding Banner" width="800"/>
+  <img src="https://user-attachments.githubusercontent.com/68297750/266205370-17e909a3-5c7a-4c2f-b44c-0d3f8f1a1e4d.gif" alt="Animated Coding Banner" width="800"/>
 </div>
 
-🚀 About Me
+---
+
+## 🚀 About Me
 
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Navi%20Mumbai-blue?style=for-the-badge&logo=googlemaps" alt="Location"/>
@@ -20,24 +20,25 @@
   </a>
 </p>
 
-•
-🎓 Currently pursuing B.Tech in Computer Science and Engineering at ITM Skills University, Navi Mumbai.
+👋 **Hello!** I'm Sarang Gole, an enthusiastic B.Tech student in Computer Science and Engineering at ITM Skills University, Navi Mumbai. My journey into the world of tech is fueled by curiosity and a passion for crafting innovative solutions.
 
-•
-🌱 Actively learning Generative AI, C++, and Google AppSheet.
+📚 **Currently diving deep into:**
+- 🧠 **Generative AI:** Exploring the fascinating realm of AI models that create!
+- 💻 **C++:** Sharpening my foundational programming skills.
+- ⚙️ **Google AppSheet:** Building powerful, no-code applications.
 
-•
-💡 Passionate about Web Development, Machine Learning, AI, and Augmented Reality.
+💡 **My tech interests are broad and ever-evolving:**
+- 🌐 **Web Development:** Bringing ideas to life on the internet.
+- 🤖 **Machine Learning & AI:** Unlocking insights and intelligence from data.
+- 👓 **Augmented Reality:** Blending digital experiences with the real world.
 
-•
-💻 Avid problem-solver, always exploring new projects and participating in hackathons.
+🏆 I'm a dedicated problem-solver, always eager to take on new challenges, collaborate on exciting projects, and participate in hackathons.
 
-•
-📂 You can find all my projects showcased here on my GitHub!
+📂 You can find all my latest creations and contributions right here on my GitHub profile. Feel free to explore!
 
-<hr>
+---
 
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -45,10 +46,12 @@
   </a>
 </p>
 
-🛠️ My Tech Stack
+---
+
+## 🛠️ My Tech Stack
 
 <p align="center">
-  <i>Technologies and tools I work with:</i>
+  <i>Here's a glimpse into the technologies and tools I love to work with:</i>
 </p>
 
 <table align="center">
@@ -94,27 +97,30 @@
       <br>Lens Studio
     </td>
     <td align="center" width="150">
-      <!-- Placeholder for future tech -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+      <br>CSS3
     </td>
     <td align="center" width="150">
-      <!-- Placeholder for future tech -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+      <br>JavaScript
     </td>
     <td align="center" width="150">
-      <!-- Placeholder for future tech -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+      <br>VS Code
     </td>
   </tr>
 </table>
 
-<hr>
+---
 
-📊 My GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Saranggole9106/count.svg" alt="Visitor Count" />
 </p>
 
 <p align="center">
-  <i>A little insight into my coding activity:</i>
+  <i>Get a quick overview of my coding activity and contributions:</i>
 </p>
 
 <p align="center">
@@ -126,10 +132,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saranggole9106&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Sarang Gole's Top Languages" />
 </p>
 
-🌐 Connect With Me
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <i>Let's connect and collaborate!</i>
+  <i>Let's connect, collaborate, and create amazing things together!</i>
 </p>
 
 <p align="center">
@@ -142,7 +150,7 @@
   <a href="https://instagram.com/saranggole9106" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://youtube.com/@saranggole1947" target="_blank">
+  <a href="https://www.youtube.com/@SarangGole" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://snapchat.com/add/saranggole2024" target="_blank">
@@ -150,29 +158,24 @@
   </a>
 </p>
 
-<hr>
+---
 
-🐍 My Contribution Graph
+## 🐍 My Contribution Graph
 
 <p align="center">
-  <i>Watch my contributions slither across the grid! (Auto-updates daily)</i>
+  <i>Watch my coding journey unfold through my contributions! (Auto-updates daily)</i>
 </p>
 
 <p align="center">
-  <!-- GitHub Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saranggole9106/Saranggole9106/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saranggole9106/Saranggole9106/output/github-contribution-grid-snake.svg">
     <img alt="Sarang Gole's Contribution Snake Animation" src="https://raw.githubusercontent.com/Saranggole9106/Saranggole9106/output/github-contribution-grid-snake.svg">
   </picture>
-  <!-- End GitHub Snake Animation -->
-</p>
+  </p>
 
-<hr>
+---
 
 <p align="center">
-  <i>Thanks for visiting my profile! Feel free to connect.</i>
+  <i>Thanks for dropping by! Your visit is appreciated. Let's build something awesome.</i>
 </p>
-
-<!-- End README -->
-

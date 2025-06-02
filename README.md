@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-web-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--developers-coder-frontend-codder-backend-software-development-team-pack-people-animations-4884172.mp4" alt="Animated Coding Banner" width="800"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1000/format:webp/0*jxUH3Cwd-jlCnf3d" alt="Animated Coding Banner" width="800"/>
 </div>
 
 ---

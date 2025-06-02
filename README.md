@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1000/format:webp/0*jxUH3Cwd-jlCnf3d" alt="Animated Coding Banner" width="800"/>
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670664007515/7nRHqrTst.gif" alt="Animated Coding Banner" width="800"/>
 </div>
 
 ---

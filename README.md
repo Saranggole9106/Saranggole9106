@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://user-attachments.githubusercontent.com/68297750/266205370-17e909a3-5c7a-4c2f-b44c-0d3f8f1a1e4d.gif" alt="Animated Coding Banner" width="800"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pocjEwOWx3ZmhqNHdmYzB4aXR2aHkycXVraTlnbmJmc3poZjk5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated Coding Banner" width="800"/>
 </div>
 
 ---

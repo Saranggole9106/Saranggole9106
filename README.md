@@ -167,11 +167,11 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saranggole9106/Saranggole9106/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saranggole9106/Saranggole9106/output/github-contribution-grid-snake.svg">
-    <img alt="Sarang Gole's Contribution Snake Animation" src="https://raw.githubusercontent.com/Saranggole9106/Saranggole9106/output/github-contribution-grid-snake.svg">
-  </picture>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
   </p>
 
 ---

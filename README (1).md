@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/Saranggole9106">
     <img src="https://readme-typing-svg.herokuapp.com?font=FiraCode&size=35&pause=1000&color=30A46C&center=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sarang+Gole!" alt="Typing SVG" />
-  </a>
+  </a> 
 </h1>
 
 <div align="center">

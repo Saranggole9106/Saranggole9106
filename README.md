@@ -1,6 +1,8 @@
 <!-- Header with Dynamic Gradient Background -->
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/main/demo.svg" />
+</p>
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/saranggole9106">

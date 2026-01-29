@@ -1,6 +1,6 @@
-<!-- Animated Liquid Glass Header -->
+]<!-- Animated Gradient Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:4A00E0,100:00d4ff&height=200&section=header&text=Sarang%20Gole&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00d4ff&height=220&section=header&text=Sarang%20Gole&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=20" width="100%" />
 </div>
 
 <!-- Typing Animation -->
@@ -145,11 +145,6 @@ My passion lies in building scalable backend systems, exploring AI technologies,
 <div align="center">
   <img src="https://github.com/saranggole9106/saranggole9106/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
-
-<!-- 
-NOTE: To make the Snake animation work, you need to set up a GitHub Action workflow. 
-I have included the workflow file in the code I gave you! 
--->
 
 ---
 

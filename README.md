@@ -1,7 +1,7 @@
 <!-- Header with Dynamic Gradient Background -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/main/demo.svg" />
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/main/demo.gif" />
 </p>
 <!-- Typing Animation -->
 <p align="center">

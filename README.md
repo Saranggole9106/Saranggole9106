@@ -1,12 +1,12 @@
-<!-- Header with Dynamic Gradient Background -->
+<!-- Animated Liquid Glass Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:4A00E0,100:00d4ff&height=200&section=header&text=Sarang%20Gole&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons.svg" />
-</p>
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/saranggole9106">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Backend+Developer+%F0%9F%92%BB;AI+%26+Web+Enthusiast+%F0%9F%9A%80;B.Tech+CSE+Student+%F0%9F%8E%93;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00d4ff&background=00000000&center=true&vCenter=true&width=500&lines=console.log(%22Hello+World!%22);Backend+Developer+%F0%9F%92%BB;AI+%26+Web+Enthusiast+%F0%9F%9A%80;B.Tech+CSE+Student+%F0%9F%8E%93;while(alive)+%7B+code()%3B+%7D" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,20 +27,19 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dummy/giphy.gif" width="0" height="0" /> <!-- Placeholder for spacing hack if needed, or I can use a real GIF -->
-  <br/>
-</div>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 I'm a **B.Tech CSE Student** at **ITM Skills University** (Batch of 2026) based in **Thane, India**.  
 My passion lies in building scalable backend systems, exploring AI technologies, and crafting seamless web experiences. 
 
-- 🔭 I’m currently working on **AI-powered Virtual Labs**.
-- 🌱 I’m currently learning **Advanced System Design & Cloud Computing**.
-- 👯 I’m looking to collaborate on **Open Source Projects**.
+- 🔭 I'm currently working on **AI-powered Virtual Labs**.
+- 🌱 I'm currently learning **Advanced System Design & Cloud Computing**.
+- 👯 I'm looking to collaborate on **Open Source Projects**.
 - ⚡ Fun fact: I can debug code in my sleep (literally).
+
+<br clear="right"/>
 
 ---
 
@@ -86,7 +85,7 @@ My passion lies in building scalable backend systems, exploring AI technologies,
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
-        <td align="center" width="90">
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
@@ -180,3 +179,6 @@ I have included the workflow file in the code I gave you!
   <br/>
   <p>Made with ❤️ and ☕ by Sarang</p>
 </div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00d4ff&height=120&section=footer" width="100%" />

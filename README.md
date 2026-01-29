@@ -1,8 +1,7 @@
 <!-- Header with Dynamic Gradient Background -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30&height=300&section=header&text=Sarang%20Gole&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Turning%20Coffee%20Into%20Code%20Since%202022&descAlignY=51&descAlign=62" width="100%" />
-</div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Sarang+Gole;Backend+Developer;AI+%26+Web+Enthusiast;Turning+Ideas+Into+Code+🚀" />
+</p>
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/saranggole9106">

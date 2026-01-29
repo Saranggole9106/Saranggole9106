@@ -1,63 +1,82 @@
-# Hi 👋 I'm Sarang Gole  
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Sarang+Gole+👋;B.Tech+CSE+Student+🎓;Backend+Developer+💻;AI+%26+Web+Enthusiast+🚀" />
+</p>
 
-🎓 B.Tech CSE Student | ITM Skills University (2026)  
-💻 Backend Developer | Web Developer | AI Project Enthusiast  
+---
+
+## 🌟 About Me
+
+🎓 B.Tech CSE @ ITM Skills University (2026)  
+💻 Backend Developer | Web Developer | AI Projects  
+🚀 Hackathon Builder | Startup & Tech Enthusiast  
 📍 Thane, India  
 
 ---
 
-## 👨‍💻 About Me  
+## 🛠️ Tech Arsenal
 
-- 🔭 Currently working on:
-  - InvestSmart – Stock Portfolio Tracker
-  - CivicaCart – Smart E-commerce Platform
-  - AI-powered tools & hackathon projects  
-
-- 🌱 Learning:
-  - Backend Development (Node.js, MySQL)
-  - Data Structures & Algorithms (C++)
-  - AI & ML basics  
-
-- ⚡ Participated in:
-  - Hackathons
-  - Tech events like Mumbai Tech Week 2025  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,nodejs,mysql,git,github,vscode" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 📈 GitHub Analytics
 
-**Languages:**  
-- Python  
-- JavaScript  
-- C++  
-- HTML, CSS  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-**Backend & DB:**  
-- Node.js  
-- MySQL  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
-**Tools:**  
-- Git & GitHub  
-- VS Code  
-- Packet Tracer  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📂 Projects  
+## 🏆 GitHub Trophies
 
-🔹 **InvestSmart** – Investment Portfolio Tracker  
-🔹 **CivicaCart** – Smart E-commerce App  
-🔹 **AI Contract Risk Analyzer**  
-🔹 **Digital Flashcards App**  
-🔹 **V-Labs Builder (AI-powered)**  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&row=1&column=6" />
+</p>
 
 ---
 
-## 📫 Connect With Me  
+## 🚀 Featured Projects
 
-- LinkedIn: (Add your LinkedIn link here)  
-- GitHub: https://github.com/YOUR_USERNAME  
+| Project | Description | Tech |
+|--------|------------|------|
+| 💹 InvestSmart | Stock Portfolio Tracker | JS, API, MySQL |
+| 🛒 CivicaCart | Smart E-commerce Platform | Node, DBMS |
+| 📑 Contract Risk Analyzer | AI-powered tool | Python, Streamlit |
+| 📚 Digital Flashcards | Study App | JS |
+| 🔬 V-Labs Builder | AI Virtual Lab Generator | Python, Flask |
 
 ---
 
-⭐ Feel free to explore my repositories and projects!
+## 🌐 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+✨ _Building impactful tech solutions & learning every day!_

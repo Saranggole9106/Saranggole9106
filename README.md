@@ -1,6 +1,6 @@
 <!-- Header with Dynamic Gradient Background -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Sarang+Gole;Backend+Developer;AI+%26+Web+Enthusiast;Turning+Ideas+Into+Code+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=45&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+I'm+Sarang+Gole+👋;Full+Stack+Developer+💻;AI+Builder+🤖;Hackathon+Enthusiast+🚀" />
 </p>
 <!-- Typing Animation -->
 <p align="center">

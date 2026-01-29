@@ -1,12 +1,12 @@
-]<!-- Animated Gradient Header -->
+<!-- Clean Gradient Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00d4ff&height=220&section=header&text=Sarang%20Gole&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=180&section=header&text=Sarang%20Gole&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20%7C%20AI%20Enthusiast&descAlignY=65&descSize=20" width="100%" />
 </div>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/saranggole9106">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00d4ff&background=00000000&center=true&vCenter=true&width=500&lines=console.log(%22Hello+World!%22);Backend+Developer+%F0%9F%92%BB;AI+%26+Web+Enthusiast+%F0%9F%9A%80;B.Tech+CSE+Student+%F0%9F%8E%93;while(alive)+%7B+code()%3B+%7D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667eea&background=00000000&center=true&vCenter=true&width=500&lines=console.log(%22Hello+World!%22);Backend+Developer+%F0%9F%92%BB;AI+%26+Web+Enthusiast+%F0%9F%9A%80;B.Tech+CSE+Student+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 </p>
 
@@ -174,6 +174,3 @@ My passion lies in building scalable backend systems, exploring AI technologies,
   <br/>
   <p>Made with ❤️ and ☕ by Sarang</p>
 </div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00d4ff&height=120&section=footer" width="100%" />

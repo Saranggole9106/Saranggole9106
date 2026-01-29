@@ -1,16 +1,24 @@
-<!-- Clean Gradient Header -->
+<!-- Animated Shark Banner with Twinkling Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=180&section=header&text=Sarang%20Gole&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20%7C%20AI%20Enthusiast&descAlignY=65&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=24&height=200&section=header&text=Sarang%20Gole&fontSize=70&fontColor=ffffff&animation=scaleIn&fontAlignY=40&desc=Backend%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=18&reversal=true" width="100%" />
 </div>
 
-<!-- Typing Animation -->
+<!-- Matrix-Style Code Rain Effect (Custom SVG) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+</p>
+
+<!-- Animated Typing with Glowing Effect -->
 <p align="center">
   <a href="https://github.com/saranggole9106">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667eea&background=00000000&center=true&vCenter=true&width=500&lines=console.log(%22Hello+World!%22);Backend+Developer+%F0%9F%92%BB;AI+%26+Web+Enthusiast+%F0%9F%9A%80;B.Tech+CSE+Student+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E%3E+Initializing+Developer+Mode...;%3E%3E+Loading+Skills...;%3E%3E+Welcome+to+my+Profile!" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Socials & badges -->
+<!-- Animated Wave -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+
+<!-- Socials with Animated Hover -->
 <p align="center">
   <a href="https://linkedin.com/in/sarang-gole-3b3b3b202" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -45,105 +53,23 @@ My passion lies in building scalable backend systems, exploring AI technologies,
 
 ## 🛠️ Tech Arsenal
 
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br>Flask
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-      <br>VSCode
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,nodejs,mysql,git,docker,flask&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,postman,vscode,linux,aws,nextjs&theme=dark" />
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=saranggole9106&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranggole9106&theme=tokyonight&hide_border=false" width="400" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranggole9106&layout=compact&theme=tokyonight&langs_count=8" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=saranggole9106&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranggole9106&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" width="49%" />
 </div>
 
----
-
-## 🐍 Contribution Graph
-
 <div align="center">
-  <img src="https://github.com/saranggole9106/saranggole9106/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saranggole9106&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -151,7 +77,7 @@ My passion lies in building scalable backend systems, exploring AI technologies,
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saranggole9106&theme=radical&row=1&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saranggole9106&theme=matrix&row=1&column=7&margin-w=15&margin-h=15&no-bg=true" />
 </div>
 
 ---
@@ -169,8 +95,8 @@ My passion lies in building scalable backend systems, exploring AI technologies,
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saranggole9106&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
-  <br/>
-  <br/>
-  <p>Made with ❤️ and ☕ by Sarang</p>
+  <img src="https://komarev.com/ghpvc/?username=saranggole9106&style=for-the-badge&color=00FF88&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=24&height=100&section=footer&reversal=true" width="100%" />

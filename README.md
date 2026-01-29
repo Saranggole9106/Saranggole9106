@@ -82,97 +82,12 @@
 
 ---
 
-## 🎯 Skill Levels
-
-<div align="center">
-  <table>
-    <tr>
-      <td><b>🐍 Python</b></td>
-      <td>
-        <img src="https://progress-bar.dev/90/?width=200&color=6366F1&suffix=%25" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>⚡ JavaScript</b></td>
-      <td>
-        <img src="https://progress-bar.dev/85/?width=200&color=F7DF1E&suffix=%25" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🚀 Node.js</b></td>
-      <td>
-        <img src="https://progress-bar.dev/80/?width=200&color=68A063&suffix=%25" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🗄️ MySQL</b></td>
-      <td>
-        <img src="https://progress-bar.dev/75/?width=200&color=00758F&suffix=%25" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🐳 Docker</b></td>
-      <td>
-        <img src="https://progress-bar.dev/70/?width=200&color=2496ED&suffix=%25" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>☁️ AWS</b></td>
-      <td>
-        <img src="https://progress-bar.dev/65/?width=200&color=FF9900&suffix=%25" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## 💻 Weekly Coding Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saranggole9106&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" width="50%" />
-</div>
-
----
-
-## 🎮 Interactive Terminal
+##  Interactive Terminal
 
 <div align="center">
   <a href="https://github.com/saranggole9106">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=%24+cat+about_me.txt;%3E%3E+Backend+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;%24+ls+skills%2F;%3E%3E+Python+JavaScript+Node.js+Docker+AWS;%24+echo+%22Let's+Connect!%22;%3E%3E+Building+the+future%2C+one+commit+at+a+time..." />
   </a>
-</div>
-
----
-
-## 📈 Contribution Metrics
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=saranggole9106&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saranggole9106&repo=saranggole9106&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
-</div>
-
----
-
-## 🌐 3D Contribution Graph
-
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=saranggole9106&theme=tokyonight" width="100%" />
-</div>
-
-<!-- Cool Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## 🔥 Current Streak & Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=saranggole9106&theme=tokyonight&hide_border=true&background=0D1117&fire=6366F1&ring=6366F1&currStreakLabel=6366F1" width="60%" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=%F0%9F%94%A5+Coding+Every+Day;%F0%9F%9A%80+Building+Scalable+Systems;%F0%9F%A4%96+Exploring+AI+%26+ML;%E2%98%81%EF%B8%8F+Cloud+Native+Development" />
 </div>
 
 ---

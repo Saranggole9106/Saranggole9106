@@ -171,18 +171,9 @@ const sarang = {
 <!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Contribution Snake
+## 🐍 Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/saranggole9106/saranggole9106/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/saranggole9106/saranggole9106/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/saranggole9106/saranggole9106/blob/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
-
----
-
+![Snake animation](https://github.com/saranggole9106/saranggole9106/blob/output/github-contribution-grid-snake.svg)
 ## <img src="https://media.giphy.com/media/3orifgGJbnLeD5Uv96/giphy.gif" width="30"> Trophy Showcase
 
 <div align="center">

@@ -177,15 +177,7 @@ const sarang = {
 ## 🏆 Trophy Showcase
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saranggole9106
-&theme=radical
-&no-frame=true
-&row=1
-&column=6
-&margin-w=15
-&margin-h=15" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=saranggole9106&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Featured Projects
 

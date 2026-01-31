@@ -174,15 +174,19 @@ const sarang = {
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/saranggole9106/saranggole9106/blob/output/github-contribution-grid-snake.svg)
-## <img src="https://media.giphy.com/media/3orifgGJbnLeD5Uv96/giphy.gif" width="30"> Trophy Showcase
+## 🏆 Trophy Showcase
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saranggole9106&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=saranggole9106
+&theme=radical
+&no-frame=true
+&row=1
+&column=6
+&margin-w=15
+&margin-h=15" />
+
 </div>
-
-<!-- Wave Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=80&section=header" width="100%" />
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Featured Projects
 
 <div align="center">

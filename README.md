@@ -176,9 +176,9 @@ const sarang = {
 ![Snake animation](https://github.com/saranggole9106/saranggole9106/blob/output/github-contribution-grid-snake.svg)
 ## 🏆 Trophy Showcase
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saranggole9106&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saranggole9106&theme=radical&no-frame=true&column=7" />
+</p>
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
